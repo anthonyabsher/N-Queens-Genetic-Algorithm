@@ -1,6 +1,6 @@
 /*
   Name: Anthony Absher
-  Project: HW 3 - 8 Queens Genetic Algorithm
+  8 Queens Genetic Algorithm
 */
 
 #include <iostream>
